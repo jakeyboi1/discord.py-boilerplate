@@ -1,0 +1,1 @@
+> The helpers folder is for any kind of helper code that isnt its own service, but helps run services for example commonly used functions etc

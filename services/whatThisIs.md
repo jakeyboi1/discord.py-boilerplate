@@ -1,0 +1,1 @@
+> The services folder is for all the services/features your bot provides (This helps keep your main.py file clean)
